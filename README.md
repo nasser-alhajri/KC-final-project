@@ -5,30 +5,18 @@
 <div dir="rtl">
   
 ### اسم الطالب
-
+ناصر عبدالله الهاجري
 
 ### اسم المشروع
-
+my favorite hobby
 
 # شرح الفكرة
-المشكلة والحلول المطروحة إن وجدت
+التعرف على بطل العالم للدراجه الهوائيه
 
 
 # الأعمال المستقبلية
 
 
 </div>
-
-> Fill out project information in English ⬇️
-### Student Name
-
-
-### Project Name
-
-# Idea
-Problem and solutions if found 
-
-
-# Future Work 
 
 
